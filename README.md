@@ -2,7 +2,7 @@
 Code walkthrough of abstractive summarization with the use of RNNs or the newer networks: Transformers by [Moein Hasani](https://github.com/Moeinh77).
 Original repository: https://github.com/Moeinh77/Transformer-networks-for-abstractive-summarization
 
-Here, I try to walk through the complex code for abstractive summarization using the transformer-type neutral network.
+Here, I try to walk through the complex code for abstractive summarization using the transformer-type neutral network and explain the whole process step by step.
 
 #### Code Block #1: Importing Python Libraries
 Part of the power of Python (and similar languages like R) is that there are thousands of add on packages. 
