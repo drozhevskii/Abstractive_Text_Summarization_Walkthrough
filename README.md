@@ -1,5 +1,5 @@
 # Transformer networks for abstractive summarization
-Code walkthrough of abstractive summarization with the use of RNNs or the newer networks: Transformers.
+Code walkthrough of abstractive summarization with the use of RNNs or the newer networks: Transformers by [Moein Hasani](https://github.com/Moeinh77).
 Original repository: https://github.com/Moeinh77/Transformer-networks-for-abstractive-summarization
 
 Here, I try to walk through the complex code for abstractive summarization using the transformer-type neutral network.
